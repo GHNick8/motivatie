@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/motivatie/static/css/main.3bb0b538.css",
+    "main.js": "/motivatie/static/js/main.9cc0c612.js",
+    "static/js/453.a6a97343.chunk.js": "/motivatie/static/js/453.a6a97343.chunk.js",
+    "index.html": "/motivatie/index.html",
+    "main.3bb0b538.css.map": "/motivatie/static/css/main.3bb0b538.css.map",
+    "main.9cc0c612.js.map": "/motivatie/static/js/main.9cc0c612.js.map",
+    "453.a6a97343.chunk.js.map": "/motivatie/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb0b538.css",
+    "static/js/main.9cc0c612.js"
+  ]
+}
